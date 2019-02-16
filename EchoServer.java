@@ -7,7 +7,7 @@ public class EchoServer
    { 
     ServerSocket serverSocket = null;
 		 int porta = 10007;
-
+//teste
     try { 
          serverSocket = new ServerSocket(porta); 
         } 
